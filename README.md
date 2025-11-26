@@ -1,40 +1,21 @@
-# AI Product Leader | Ex-CPO | Building in Public
+## Hey 👋
 
-Product leader with full-stack engineering background specializing in AI product development. Ex-CPO (Series B, 1,200+ businesses) now building AI-powered products and open-source tools for AI-era product management.
+### What I'm working on
 
-## What I'm Building
+**[PM Thought Partner](https://github.com/breethomas/pm-thought-partner)** - Claude Code plugin that applies PM frameworks through conversation. Four Fits, Four Risks, PMF surveys, modern PRD approach. Basically trying to make AI actually useful for product decisions instead of just generating walls of text.
 
-**[PM Thought Partner](https://github.com/breethomas/pm-thought-partner)** - Open-source Claude Code plugin with agentic workflows for product decisions. Frameworks include Four Fits, CODER, Four Risks, PMF surveys, and modern PRD approach.
+**[PM Coding Guardrails](https://github.com/breethomas/pm-coding-guardrails)** - Coding standards for PMs who vibe code with AI. Started this after getting feedback from engineers about what actually matters when PMs contribute to shared codebases. Turns out "don't break CI" is step one.
 
-**[PM Coding Guardrails](https://github.com/breethomas/pm-coding-guardrails)** - Coding standards and quality gates for PMs working with AI assistants. Based on real engineering feedback and production experience.
+### What I'm into right now
 
-**AI Forecasting at Balance** - Shipped LLM-powered cash-flow forecasting from prototype through pilot testing. Built evaluation frameworks, designed conversational AI-first UX, and architected prompt workflows for financial products.
+Building evaluation frameworks for LLM features. Turns out "vibes" don't scale and you need actual systematic testing. Who knew?
 
-## Current Focus
+Figuring out how to transform traditional SaaS UX into AI-first experiences. There's a huge gap between "we added a chatbot" and "we redesigned the experience for how people actually want to interact with AI."
 
-- LLM evaluation frameworks and systematic testing
-- Conversational AI design patterns
-- Building tools that help PMs ship better AI products
-- Transforming SaaS UX to AI-first experiences
+Prototyping fast. I just finished Aman Khan's Prototype to Production course and Parlance Labs' AI Evals course. Currently playing with Claude Code, Cursor, and whatever makes building faster.
 
-## Background & Training
+### Why I'm here
 
-Recently completed:
-- **Prototype to Production** (Aman Khan, 2025) - Agentic prototypes, evaluation frameworks
-- **AI Evals for Engineers & PMs** (Parlance Labs, 2025) - LLM evaluation pipelines, systematic testing
+I think PMs need to get their hands dirty with AI. Not just write specs about it. So I'm building in public, sharing what I learn, and making tools that help other PMs ship better AI products.
 
-Sharing insights on AI product development, prompt engineering, and PM frameworks
-
-## Tech Stack
-
-Working with: Rails, Postgres, React Native, Claude Code, AI evaluation tools
-
-## Connect
-
-📧 breethomas33@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/breethomas)
-📍 Denver, CO
-
----
-
-*Building AI products hands-on. Sharing what I learn along the way.*
+Also I like building things that people actually use, so if any of this is helpful, let me know.
