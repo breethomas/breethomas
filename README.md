@@ -15,7 +15,7 @@
 - 📊 Building evaluation frameworks for LLM features (turns out "vibes" don't scale)
 - 🎨 Transforming traditional SaaS UX into AI-first experiences (there's a huge gap between "we added a chatbot" and "we redesigned the experience")
 - ⚡ Prototyping fast with Claude Code, Cursor, and whatever makes building faster
-- 🎓 Just finished: Aman Khan's Prototype to Production + Parlance Labs' AI Evals
+- 🎓 Recently finished: Aman Khan's Prototype to Production + Parlance Labs' AI Evals
 
 ### 💡 Why I'm here
 
