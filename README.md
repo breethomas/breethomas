@@ -15,5 +15,5 @@
 
   I think PMs should build things, not just spec them. Figuring it out in public. If any of this
   is useful, cool. If not, I had fun making it.
----
+
   💅 When I'm not working: making jewelry, voice-to-texting robots so I can keep the long acrylic nails.
