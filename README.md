@@ -1,26 +1,29 @@
-## Hey 👋
+ ## Hey 👋
 
-### 🚀 What I'm working on
+  CPO turned AI builder. Product development got boring for a while there. Now AI has flipped the
+  whole thing on its head and I'm having fun again.
 
-**[PM Thought Partner](https://github.com/breethomas/pm-thought-partner)** - Claude Code plugin that applies PM frameworks through conversation
-- Four Fits, Four Risks, PMF surveys, modern PRD approach
-- Trying to make AI actually useful for product decisions instead of just generating walls of text
+  ### Open source stuff
 
-**[PM Coding Guardrails](https://github.com/breethomas/pm-coding-guardrails)** - Coding standards for PMs who vibe code with AI
-- Started after getting feedback from engineers about what actually matters when PMs contribute to shared codebases
-- Turns out "don't break CI" is step one
+  **[PM Thought Partner](https://github.com/breethomas/pm-thought-partner)** - Claude Code plugin
+  that puts elite PM frameworks in your corner when you need to think sharper.
 
-### 🔥 What I'm into right now
+  **[PM Coding Guardrails](https://github.com/breethomas/pm-coding-guardrails)** - How to vibe
+  code without making engineers want to kill you.
 
-- 📊 Building evaluation frameworks for LLM features (turns out "vibes" don't scale)
-- 🎨 Transforming traditional SaaS UX into AI-first experiences (there's a huge gap between "we added a chatbot" and "we redesigned the experience")
-- ⚡ Prototyping fast with Claude Code, Cursor, and whatever makes building faster
-- 🎓 Recently finished: Aman Khan's Prototype to Production + Parlance Labs' AI Evals
+  ### Currently obsessed with
 
-### 💡 Why I'm here
+  - LLM evals (because "feels good" isn't a metric)
+  - Turning SaaS into AI-first UX (not just slapping a chatbot on it)
+  - Shipping fast with Claude Code in the terminal
 
-I think PMs need to get their hands dirty with AI. Not just write specs about it.
+  ### The deal
 
-Building in public, sharing what I learn, and making tools that help other PMs ship better AI products.
+  PMs should build things, not just spec them. I'm figuring it out in public.
 
-Also I like building things that people actually use, so if any of this is helpful, let me know.
+  If any of this is useful, cool. If not, I had fun making it.
+
+  ### When I'm not working
+
+  Making jewelry. Talking to robots so I can keep the long acrylic nails. I use a lot of sports
+  metaphors but everything I know about sports is from movies. I do not watch the sports ball.
