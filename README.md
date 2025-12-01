@@ -1,4 +1,4 @@
-Hi, I'm Bree 👋
+## Hi, I'm Bree 👋
 
   CPO turned AI builder. Product development got boring for a while there. Now AI has flipped the
   whole thing on its head and I'm having fun again.
