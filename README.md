@@ -1,19 +1,13 @@
-### Hi, I'm Bree 👋
+### Hi, I'm Bree
 
-  CPO turned AI builder. Product development got boring for a while there. Now AI has flipped the
- script and I'm having fun again. 🙃
+VP Product building AI-native tools for product managers. Product development got boring for a while there. Now AI has flipped the script and I'm having fun again.
 
-  🔨 Building [PM Thought Partner](https://github.com/breethomas/pm-thought-partner), a Claude
-  Code plugin that puts the best PM thought leaders in your corner when you need to think sharper.
+Building a Claude Code plugin ecosystem for PMs:
 
-  📐 Maintaining [PM Coding Guardrails](https://github.com/breethomas/pm-coding-guardrails) so PMs
-   who vibe code don't make engineers want to kill them.
+- **[PM Thought Partner](https://github.com/breethomas/pm-thought-partner)** — 26 skills, 7 agents, and frameworks from Marty Cagan, Teresa Torres, Elena Verna, Brian Balfour, and more. Your sparring partner, not your assistant.
 
-  🔬 Currently obsessed with LLM evals (because "feels good" isn't a metric), turning SaaS into
-  AI-first UX (not just slapping a chatbot on it), and shipping fast with Claude Code in the
-  terminal.
+- **[PM Coding Guardrails](https://github.com/breethomas/pm-coding-guardrails)** — So PMs who vibe code don't make engineers want to kill them.
 
-  I think PMs should build things, not just spec them. Figuring it out in public. If any of this
-  is useful, cool. If not, I had fun making it.
+Currently obsessed with: LLM evals (because "feels good" isn't a metric), turning SaaS into AI-first UX (not just slapping a chatbot on it), and building PM workflows in the terminal with Claude Code.
 
-  🎨 Off-time interests: silversmithing, coloring, reading, parenting three boys (husband, teenager, dog)
+I think PMs should build things, not just spec them. Figuring it out in public.
