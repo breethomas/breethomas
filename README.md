@@ -32,8 +32,6 @@ Four repos. One system. Named after the woman who sued a studio because they wou
 
 ---
 
-Currently obsessed with: LLM evals (because "feels good" isn't a metric), turning SaaS into AI-first UX (not just slapping a chatbot on it), and building PM workflows in the terminal with Claude Code.
-
 I think PMs should build things, not just spec them. Figuring it out in public.
 
 Fasten your seatbelts.
