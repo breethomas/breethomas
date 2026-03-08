@@ -1,15 +1,39 @@
 ### Hi, I'm Bree
 
-VP Product building AI-native tools for product managers. Product development got boring for a while there. Now AI has flipped the script and I'm having fun again.
+VP Product who builds things. AI broke open what product leadership looks like and I'm not waiting around for permission to figure it out.
 
-Building a Claude Code plugin ecosystem for PMs:
+> "Attempt the impossible in order to improve your work." — Bette Davis
 
-- **[PM Thought Partner](https://github.com/breethomas/pm-thought-partner)** — 26 skills, 7 agents, and frameworks from Marty Cagan, Teresa Torres, Elena Verna, Brian Balfour, and more. Your sparring partner, not your assistant.
+Four repos. One system. Named after the woman who sued a studio because they wouldn't give her better roles.
 
-- **[PM AI Playbook](https://github.com/breethomas/pm-ai-playbook)** — A practical system for PMs working with AI. Maturity model, quality gates, session management, test-first patterns, and a pattern library that compounds. Works for coding, strategy, and everything in between.
+---
 
-- **[Bette OS](https://github.com/breethomas/bette-os)** — A PM operating system built on Claude Code. 22 skills for inbox triage, meeting prep, backlog prioritization, performance reviews, and strategic synthesis. Clone it, fill in your context, start working.
+**How to architect** — set up the foundation
+
+**[bette-architect](https://github.com/breethomas/bette-architect)** — Context engineering for AI-assisted work. How to structure persistent context so your AI actually gets better over time, not just per-prompt. CLAUDE.md patterns, reference file design, memory systems, skill architecture.
+
+---
+
+**How to think** — frameworks that sharpen decisions
+
+**[bette-think](https://github.com/breethomas/bette-think)** — 26 skills, 7 agents, and frameworks from Cagan, Torres, Verna, Balfour, and more. Your sparring partner, not your assistant.
+
+---
+
+**How to work** — guardrails that keep quality high
+
+**[bette-work](https://github.com/breethomas/bette-work)** — A practical system for PMs working with AI. Maturity model, quality gates, session management, test-first patterns, and a pattern library that compounds.
+
+---
+
+**How to operate** — run your day without losing the plot
+
+**[bette-os](https://github.com/breethomas/bette-os)** — A PM operating system built on Claude Code. 22 skills for inbox triage, meeting prep, backlog prioritization, performance reviews, and strategic synthesis. Clone it, fill in your context, start working.
+
+---
 
 Currently obsessed with: LLM evals (because "feels good" isn't a metric), turning SaaS into AI-first UX (not just slapping a chatbot on it), and building PM workflows in the terminal with Claude Code.
 
 I think PMs should build things, not just spec them. Figuring it out in public.
+
+Fasten your seatbelts.
