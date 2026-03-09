@@ -17,6 +17,7 @@ VP Product. AI-native PM. I build tools that make product managers dangerous.
 ### **[Bette](https://github.com/breethomas/bette)** — a Claude Code plugin
 
 57 skills. 7 agents. One install.
+Named after the woman who sued a studio because they wouldn't give her better roles.
 
 ```
 /plugin marketplace add breethomas/bette
