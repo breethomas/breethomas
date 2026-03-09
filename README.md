@@ -4,31 +4,28 @@ VP Product who builds things. AI broke open what product leadership looks like a
 
 > "Attempt the impossible in order to improve your work." — Bette Davis
 
-Four repos. One system. Named after the woman who sued a studio because they wouldn't give her better roles.
+---
+
+### **[Bette](https://github.com/breethomas/bette)** — one plugin, one install, one PM operating system
+
+57 skills. 7 agents. Built on Claude Code. Named after the woman who sued a studio because they wouldn't give her better roles.
+
+```
+/plugin marketplace add breethomas/bette
+/plugin install bette@breethomas
+```
 
 ---
 
-**How to architect** — set up the foundation
+Four modules. One system.
 
-**[bette-architect](https://github.com/breethomas/bette-architect)** — Context engineering for AI-assisted work. How to structure persistent context so your AI actually gets better over time, not just per-prompt. CLAUDE.md patterns, reference file design, memory systems, skill architecture.
+**How to architect** — **[bette-architect](https://github.com/breethomas/bette-architect)** — Context engineering for AI-assisted work. CLAUDE.md patterns, reference file design, memory systems, skill architecture.
 
----
+**How to think** — **[bette-think](https://github.com/breethomas/bette-think)** — 30 skills and frameworks from Cagan, Torres, Verna, Balfour, and more.
 
-**How to think** — frameworks that sharpen decisions
+**How to work** — **[bette-work](https://github.com/breethomas/bette-work)** — Maturity model, quality gates, session management, test-first patterns.
 
-**[bette-think](https://github.com/breethomas/bette-think)** — 26 skills, 7 agents, and frameworks from Cagan, Torres, Verna, Balfour, and more. Your sparring partner, not your assistant.
-
----
-
-**How to work** — guardrails that keep quality high
-
-**[bette-work](https://github.com/breethomas/bette-work)** — A practical system for PMs working with AI. Maturity model, quality gates, session management, test-first patterns, and a pattern library that compounds.
-
----
-
-**How to operate** — run your day without losing the plot
-
-**[bette-os](https://github.com/breethomas/bette-os)** — A PM operating system built on Claude Code. 22 skills for inbox triage, meeting prep, backlog prioritization, performance reviews, and strategic synthesis. Clone it, fill in your context, start working.
+**How to operate** — **[bette-os](https://github.com/breethomas/bette-os)** — 23 skills for inbox triage, meeting prep, backlog, and strategic synthesis.
 
 ---
 
