@@ -36,6 +36,6 @@ Named after the woman who sued a studio because they wouldn't give her better ro
 
 ---
 
-I think PMs should build things, not just spec them. Figuring it out in public.
+I think PMs should build things, not just spec them.
 
 *Fasten your seatbelts.*
