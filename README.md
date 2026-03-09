@@ -12,27 +12,20 @@
 
 ### Hi, I'm Bree
 
-VP Product who builds things. 
+VP Product. AI-native PM. I build tools that make product managers dangerous.
 
-### **[Bette](https://github.com/breethomas/bette)** — one plugin, one install, one PM operating system
+### **[Bette](https://github.com/breethomas/bette)** — a Claude Code plugin
 
-57 skills. 7 agents. Built on Claude Code.
-Named after the woman who sued a studio because they wouldn't give her better roles.
+57 skills. 7 agents. One install.
 
 ```
 /plugin marketplace add breethomas/bette
 /plugin install bette@breethomas
 ```
 
----
+**Architect. Think. Work. Operate.**
 
-**How to architect** · [bette-architect](https://github.com/breethomas/bette-architect) — Context engineering. CLAUDE.md patterns, reference files, memory systems.
-
-**How to think** · [bette-think](https://github.com/breethomas/bette-think) — 30 skills and frameworks from Cagan, Torres, Verna, Balfour, and more.
-
-**How to work** · [bette-work](https://github.com/breethomas/bette-work) — Maturity model, quality gates, test-first patterns.
-
-**How to operate** · [bette-os](https://github.com/breethomas/bette-os) — 23 skills for inbox, meetings, backlog, and synthesis.
+[bette-architect](https://github.com/breethomas/bette-architect) · [bette-think](https://github.com/breethomas/bette-think) · [bette-work](https://github.com/breethomas/bette-work) · [bette-os](https://github.com/breethomas/bette-os)
 
 ---
 
