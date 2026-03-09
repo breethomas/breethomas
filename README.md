@@ -12,7 +12,7 @@
 
 ### Hi, I'm Bree
 
-VP Product who builds things. AI broke open what product leadership looks like and I'm not waiting around for permission to figure it out.
+VP Product who builds things. 
 
 ### **[Bette](https://github.com/breethomas/bette)** — one plugin, one install, one PM operating system
 
